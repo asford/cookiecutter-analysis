@@ -1,0 +1,6 @@
+name: {{cookiecutter.project_slug}}
+dependencies:
+  - python=3.5
+  - ipython
+  - ipykernel
+  - numpy

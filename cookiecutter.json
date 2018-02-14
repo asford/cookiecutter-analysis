@@ -1,0 +1,7 @@
+{
+	"full_name": "Alex Ford",
+	"email": "fordas@uw.edu",
+	"github_username": "asford",
+	"project_name": "Analysis",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
+}
